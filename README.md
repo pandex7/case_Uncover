@@ -6,7 +6,7 @@
 
 Este projeto implementa uma solução para centralizar dados de diferentes fontes de uma empresa em um ambiente unificado de armazenamento e consulta, com o objetivo de integrar essas informações à plataforma Uncover. A solução automatiza a coleta e o armazenamento de dados de CSVs recorrentes, Google Sheets, e bancos de dados, facilitando o acesso centralizado para análise e tomada de decisão.
 
-![imagem]([https://github.com/pandex7/case_Uncover/blob/main/assets/1.png])
+![imagem](https://github.com/pandex7/case_Uncover/blob/main/assets/1.png)
 
 
 ## Seções de Wiki
